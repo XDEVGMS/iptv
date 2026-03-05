@@ -2,8 +2,7 @@
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes (480p)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-
-2.gif" group-title="CINE", HBO 2
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1, FOX SPORTS 2
