@@ -291,11 +291,5 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-name="Telemax" group-title="Otros/Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
---
-
-
 #EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="General",Antena 3 Internacional
 http://177.10.184.193:8000/play/a06a/index.m3u8
-
-
-
